@@ -7,4 +7,4 @@ Here’s a visual snapshot of the dataset used for the mini-lecture on β-VAE di
 
 ![Training Loss Curve](data\Training_Loss_Curve.png)
 ![Original and Recunstructed Forms](\data\Orginal_and_Recunstructed_forms.png)
-![Latent Traversal](data\Latent_Traversal.png)
+![Latent Traversal](https://github.com/NavodiSenevirathne/BetaVAE_Disentanglement_Mini_Research/blob/main/data/Latent_Traversal.png)
